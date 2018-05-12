@@ -21,6 +21,8 @@ description: 'Published in 1905, Tales of the Five Towns collects a dozen storie
   which, though taking place in London, still have characters connected with the Potteries.
   All of the tales depict the industrial and social conditions of Victorian England,
   often with sympathy and humor.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13293#Tales-of-the-Five-Towns
 gutenberg_issued: '2004-08-25'
 gutenberg_type: Text
 identifiers:
