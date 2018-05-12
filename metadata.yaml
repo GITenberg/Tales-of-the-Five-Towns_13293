@@ -1,0 +1,39 @@
+_repo: Tales-of-the-Five-Towns_13293
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: 'Published in 1905, Tales of the Five Towns collects a dozen stories,
+  divided into two sections: " At Home " and " Abroad ." The eight " At Home " tales
+  take place in Bennett''s beloved Five Towns, a location based on the Potteries district
+  of Staffordshire, where he spent his early years. " Abroad " contains four stories
+  which, though taking place in London, still have characters connected with the Potteries.
+  All of the tales depict the industrial and social conditions of Victorian England,
+  often with sympathy and humor.'
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'City and town life -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Staffordshire (England) -- Fiction'
+- !lcsh 'Pottery industry -- Fiction'
+- !lcsh 'Stoke-on-Trent (England) -- Fiction'
+title: Tales of the Five Towns
+url: http://www.gutenberg.org/ebooks/13293
